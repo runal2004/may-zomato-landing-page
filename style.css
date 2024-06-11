@@ -5,7 +5,7 @@
     font-family: "Poppins", sans-serif;
 }
 .hero_section{
-    background: url(./images/heroSectionBackground.png) ;
+    background: url(images/heroSectionBackground.png) ;
     min-height: 60vh;
 }
 .navbar{
@@ -174,16 +174,16 @@
     position: relative;
 }
 .card1{
-    background-image:url(./images/collection1.jpg) ;
+    background-image:url(images/collection1.jpg) ;
 }
 .card2{
-    background-image:url(./images/collection2.jpg) ;
+    background-image:url(images/collection2.jpg) ;
 }
 .card3{
-    background-image:url(./images/collection3.jpg) ;
+    background-image:url(images/collection3.jpg) ;
 }
 .card4{
-    background-image:url(./images/collection4.jpg) ;
+    background-image:url(images/collection4.jpg) ;
 }
 /* rgba=red green blue opacity */
 .overlay{
